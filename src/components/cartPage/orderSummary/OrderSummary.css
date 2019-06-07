@@ -1,0 +1,7 @@
+.checkout {
+  font-weight: bold;
+}
+
+tr:last-child {
+  font-weight: bold;
+}
